@@ -37,3 +37,8 @@
 欢迎大家到我的博客反馈问题：[91yun](https://www.91yun.org)
 
 [服务器测试一键包反馈页面](https://www.91yun.org/archives/833)
+
+
+
+
+wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest/master/test.sh && bash test.sh -i "io,bandwidth,download,traceroute,backtraceroute,allping,gotoping,benchtest"
